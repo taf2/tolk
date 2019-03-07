@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 2.2.2'
 
-  s.add_runtime_dependency 'rails', '>= 5.0'
+  s.add_runtime_dependency 'rails', '>= 4.2'
   s.add_runtime_dependency 'safe_yaml', ">= 0.8.6"
   s.add_runtime_dependency 'sass'
 
